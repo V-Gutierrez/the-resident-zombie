@@ -1,0 +1,41 @@
+.infected {
+    background: rgb(65, 4, 4);
+    background-image: url("../../Assets/Images//black-yellow-line-striped-caution-tape-blank-warning-background_97458-52\ \(1\).jpg");
+    color: black;
+    border: 1px dashed black;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    width: 250px;
+    height: 350px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    border: 1px dashed black;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    width: 250px;
+    height: 350px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white
+}
+
+.card p {
+    margin: 5px;
+}

@@ -1,0 +1,36 @@
+.survivor-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 900px;
+    justify-content: center;
+    overflow-y: scroll;
+    padding-bottom: 50px;
+}
+
+
+.search-box>input {
+    padding: 10px;
+    width: 400px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.search-box>button {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.search-box {
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}

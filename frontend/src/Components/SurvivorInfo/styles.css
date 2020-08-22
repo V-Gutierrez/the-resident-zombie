@@ -1,0 +1,39 @@
+.info-wrapper {
+    height: 1000px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 50px;
+
+}
+
+
+.user-info {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px
+}
+
+.info-inventory {
+    background: white;
+    color: black;
+    padding: 50px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.info-inventory>h2 {
+    text-align: center;
+    margin: 55px
+}
+
+.info-item {
+    margin: 10px;
+    border: 1px dashed black;
+    padding: 10px;
+}

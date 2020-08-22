@@ -1,0 +1,20 @@
+.notfound-container {
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white
+}
+
+.notfound-container>a {
+    background-color: black;
+    padding: 25px 70px;
+    color: yellow;
+}
+
+.notfound-container>h1 {
+    background-color: black;
+    padding: 25px 70px;
+    color: yellow;
+}

@@ -1,0 +1,62 @@
+.survivor-form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 100%;
+    background: white;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    padding: 10px
+}
+
+#map-frame {
+    width: 200px;
+    height: 180px;
+}
+
+.app-container {
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+    margin-bottom: 30px;
+}
+
+.app-container h3 {
+    text-align: center;
+    padding: 10px
+}
+
+.app-container h1 {
+    color: white;
+    font-weight: bold;
+    margin: 0 50px
+}
+
+.gender-box {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.gender-box label {
+    display: block
+}
+
+#user-alert {
+    margin: 30px
+}
+
+#aside-form {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}

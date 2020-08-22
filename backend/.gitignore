@@ -1,0 +1,7 @@
+node_modules
+dist
+.directory
+build
+.env
+src/Database/database.sqlite
+coverage
